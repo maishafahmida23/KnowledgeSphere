@@ -1,2 +1,2 @@
 # KnowledgeSphere
-Introducing our virtual classroom—seamless, interactive, and built for better online learning!
+Knowledge Sphere is a virtual learning platform designed for seamless interaction between teachers and students. It includes four key modules: User Authentication (secure login and registration), **Course Creation (teachers can create and upload course materials), **Course Enrollment** (students can browse and join courses easily), and **Chat** (real-time messaging for discussions). This project enhances online education by making learning more interactive and accessible.
