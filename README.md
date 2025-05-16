@@ -18,5 +18,7 @@ Interactive Q&A: Built-in feature for students to ask questions and receive answ
 **🎯 Target Audience**
 
 Students – Join courses, access materials, and ask questions easily.
+
 Teachers – Create and manage courses while staying connected with students.
+
 Aspiring Learners – Open to all with a passion for gaining new knowledge..
