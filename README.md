@@ -7,12 +7,19 @@ The Virtual Classroom Management System is a web-based platform built to streaml
 **🔑 Key Features**
 
 User Login & Registration: Separate login portals for students and teachers.
+
 Dashboards: Personalized dashboards for managing courses, uploads, and interactions.
+
 Course Enrollment: Easy enrollment process for students.
+
 Resource Management:
+
 Teachers can upload course materials.
+
 Students can upload assignments or related documents.
+
 Search Functionality: Quickly find courses or learning materials.
+
 Interactive Q&A: Built-in feature for students to ask questions and receive answers from teachers.
 
 **🎯 Target Audience**
