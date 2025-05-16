@@ -26,7 +26,7 @@ Interactive Q&A: Built-in feature for students to ask questions and receive answ
 
 Students – Join courses, access materials, and ask questions easily.
 
-Teachers – Create and manage courses while staying connected with students.![image](https://github.com/user-attachments/assets/3c6676e5-9542-4591-b050-f38b7c41a2cf)
+Teachers – Create and manage courses while staying connected with students.
 
 Aspiring Learners – Open to all with a passion for gaining new knowledge..
 
@@ -35,9 +35,9 @@ Aspiring Learners – Open to all with a passion for gaining new knowledge..
 Dashboard
 ![image](https://github.com/user-attachments/assets/66ccce25-4d38-4c28-bafa-8f6befdcb556)
 Teacher Login
-![image](https://github.com/user-attachments/assets/ba24f288-c62f-4476-b822-9a773cd3b66c)
+![image](https://github.com/user-attachments/assets/83aa373a-8373-4c44-a405-3457f7298fb9)
 Teacher Registration
-![image](https://github.com/user-attachments/assets/00bf6711-c7fd-41f0-a112-75277b85283f)
+![image](https://github.com/user-attachments/assets/60e9ebdc-fb17-4a46-8ea9-6d50132f6f8a)
 Student Login
 ![image](https://github.com/user-attachments/assets/9b97011a-beaf-4891-8ac8-7eae855b96a0)
 Student Registration
