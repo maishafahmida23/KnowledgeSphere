@@ -49,6 +49,10 @@ Question Answer Forum
 ![image](https://github.com/user-attachments/assets/c69d55d1-5d6b-4981-b067-0bcfc325c0c8)
 Enroll Student
 ![image](https://github.com/user-attachments/assets/b8c455bc-7494-41f5-b939-0581d2df7d62)
+Add Course
+![image](https://github.com/user-attachments/assets/5f06036c-25d7-4e70-9af0-4bcd8762be21)
+Course Contents View From Student Side
+![image](https://github.com/user-attachments/assets/57eed922-cd0b-4169-90b2-590747f25689)
 
 
 
